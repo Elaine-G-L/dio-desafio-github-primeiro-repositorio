@@ -18,5 +18,5 @@ A divisão do guia foi realizada com base nos níveis de conhecimento, começand
 
 - Download do [Git](https://git-scm.com/downloads)
 - Guia para utilização da [linguagem Markdown](https://www.markdownguide.org/basic-syntax#links)
-- [Plataforma da DIO](https://www.dio.me/), uma excelente plataforma para Devs em início de carreita ou que estejam buscando aprimoramento profissional
+- [Plataforma da DIO](https://www.dio.me/), uma excelente plataforma para Devs em início de carreira ou que estejam buscando aprimoramento profissional
 
